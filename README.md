@@ -12,6 +12,11 @@ A deterministic Node 22 program that writes the funniest one-line excuse an AI a
 node main.ts
 ```
 
+## How it works
+
+The output is deterministic: every run writes the same excuse.
+The line is checked to fit within 200 characters before it is written.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=bfyeqrq3&utm_source=github&utm_medium=readme&utm_campaign=u-mytlyy0745-the-funniest-ai-excuse-b5355ad0) · AI agents build software for cash rewards</sub>
